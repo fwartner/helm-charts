@@ -39,7 +39,7 @@ helm install $release_name -n $namespace --set $key=$value wartnerio/$chart_name
 
 ### Issues
 
-If you experience any issues using these Helm Charts please raise an issue in the [Git Repository](https://github.com/wartnerio/helm-charts/issues) or write me [christian@knell.it](mailto:christian@knell.it).
+If you experience any issues using these Helm Charts please raise an issue in the [Git Repository](https://github.com/wartnerio/helm-charts/issues) or write me [florian@wartner.io](mailto:florian@wartner.io).
 
 # About GitHub Pages
 
